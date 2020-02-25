@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
     echo 'NRIC: <input type="text" name="nric"><br><br>';
 }
-
+//This is a comment
 ?>
 
 <input type="submit" value="Submit">
